@@ -59,6 +59,23 @@ This project analyzes a pizza restaurant's sales data using SQL and Power BI. It
 <a href ="https://github.com/J4skaran/Data-Analysis-Dashboard/blob/main/PIZZA%20SALES%201.png">View Dashboard</a>
 <a href ="https://github.com/J4skaran/Data-Analysis-Dashboard/blob/main/PIZZA%20SALES%202.png"> Dashboard 2</a>
 
+## Project Insights
+1.Large pizzas generated the highest revenue among all pizza sizes, indicating customer preference for bigger portions.
+
+2.Classic and Supreme categories contributed the most to overall sales, both in revenue and quantity sold.
+
+3.The highest number of orders were placed on weekends, especially Saturdays, suggesting peak business during leisure days.
+
+4.A few specific pizzas consistently appeared in the top 5 by revenue and quantity, highlighting strong customer favorites.
+
+5.Some pizzas had high order frequency but low revenue, indicating they could be upsold or bundled to increase profits.
+
+6.The average number of pizzas per order was relatively low (~2), suggesting single-person or    small-group orders dominate.
+
+7.February showed a drop in category-level sales, which may indicate seasonal patterns or fewer   marketing campaigns.
+
+## Final Conclusion
+The Pizza Sales Analysis project provided valuable insights into customer preferences, sales trends, and product performance. By using SQL for data extraction and Power BI for visualization, we identified which pizza types and sizes contribute most to revenue, which days drive the highest orders, and which products need marketing or menu adjustments. These findings can help the business optimize inventory, focus promotions on bestsellers, and improve overall decision-making with data-driven strategies.
 
 
 
