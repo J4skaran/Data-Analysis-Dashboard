@@ -12,6 +12,9 @@ Analyze sales contribution by pizza category and size
 
 Support data-driven decision-making for inventory, marketing, and menu optimization
 
+## Dataset Used
+<a href ="https://github.com/J4skaran/Data-Analysis-Dashboard/blob/main/pizza_sales.csv">Dataset</a>
+
 ## Questions
 A. KPIs (Key Performance Indicators)
 What is the total revenue generated from all pizza sales?
@@ -53,6 +56,9 @@ Which are the bottom 5 pizzas with the lowest number of total orders?
 This project analyzes a pizza restaurant's sales data using SQL and Power BI. It includes key KPIs like total revenue, average order value, and total pizzas sold. The dashboard visualizes daily and monthly order trends, top/bottom pizzas by revenue, quantity, and order count. Sales by pizza category and size are also analyzed. The project helps drive data-based decisions in sales, marketing, and product strategy.
 
 ## Dashboard interaction 
+<a href ="https://github.com/J4skaran/Data-Analysis-Dashboard/blob/main/PIZZA%20SALES%201.png">View Dashboard</a>
+<a href ="https://github.com/J4skaran/Data-Analysis-Dashboard/blob/main/PIZZA%20SALES%202.png"> Dashboard 2</a>
+
 
 
 
