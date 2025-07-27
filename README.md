@@ -14,8 +14,6 @@ Support data-driven decision-making for inventory, marketing, and menu optimizat
 
 ## Dataset Used
 <a href ="https://github.com/J4skaran/Data-Analysis-Dashboard/blob/main/pizza_sales.csv">Dataset</a>
-## Images 
-< a href ="https://github.com/J4skaran/e-commerce-project/tree/main/images"> Images</a>
 
 ## Questions
 A. KPIs (Key Performance Indicators)
